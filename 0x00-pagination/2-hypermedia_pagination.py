@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+'''Hypermedia Pagination'''
 import csv
 import math
 from typing import List, Dict, Union
