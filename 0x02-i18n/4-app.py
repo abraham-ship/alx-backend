@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-'''Get locale from request'''
+'''Force locale with URL parameter'''
 
 
 from flask import Flask, render_template, request
