@@ -20,7 +20,7 @@ app.config.from_object(Config)
 
 @app.route('/', strict_slashes=False)
 def index():
-    return render_template('index.html')
+    return render_template('1-index.html')
 
 
 if __name__ == '__main__':
